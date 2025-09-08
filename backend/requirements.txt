@@ -7,4 +7,6 @@ django-debug-toolbar
 djangorestframework-simplejwt
 PyJWT
 pandas
+gunicorn
+psycopg2-binary
 python-dotenv
