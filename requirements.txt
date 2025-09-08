@@ -1,0 +1,10 @@
+asgiref
+Django
+djangorestframework
+django-cors-headers
+django-filter
+django-debug-toolbar
+djangorestframework-simplejwt
+PyJWT
+pandas
+python-dotenv
